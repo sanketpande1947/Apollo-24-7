@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T11:58:12 IST" name="Suite" finished-at="2022-03-14T12:03:50 IST" duration-ms="338527">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-03-14T11:58:12 IST" name="Test" finished-at="2022-03-14T12:03:50 IST" duration-ms="338527">
+      <class name="runner.MyRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T11:58:12 IST" name="setUpClass" finished-at="2022-03-14T11:58:12 IST" duration-ms="650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3aa63b53]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T11:58:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T11:58:45 IST" duration-ms="32514" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-001] User Should be able to navigate to the Specialities Page"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T11:58:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T11:59:14 IST" duration-ms="29587" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-002] User should verify the functionality of meet in person button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T11:59:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T11:59:44 IST" duration-ms="29716" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-003] User should verify the functionality of Text Video Call button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T11:59:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:00:20 IST" duration-ms="35642" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-004] User should verify the functionality of Top specialities Covid"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:00:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:00:50 IST" duration-ms="30634" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-005] User should verify the functionality of Top specialities Dermatology"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:00:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:01:20 IST" duration-ms="29890" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-006] User should verify the functionality of Top specialities General Physician"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:01:20 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:01:50 IST" duration-ms="29212" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-007] User should verify the functionality of Top specialities Paediatrics"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:01:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:02:19 IST" duration-ms="29142" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-008] User should verify the functionality of Other specialities Allergist"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:02:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:02:51 IST" duration-ms="32163" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-009] User should verify the functionality of Other specialities Cardiology"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:02:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:03:21 IST" duration-ms="29940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-010] User should verify the functionality of Other specialities Bariatrics"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:03:21 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-03-14T12:03:50 IST" duration-ms="29337" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["[TSAP-011] User should verify the functionality of Other specialities Counselling"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Verify the Functionality of Specialities Page]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.MyRunner@5340477f]" started-at="2022-03-14T12:03:50 IST" name="tearDownClass" finished-at="2022-03-14T12:03:50 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.MyRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
